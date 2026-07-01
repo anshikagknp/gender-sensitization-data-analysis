@@ -1,0 +1,1001 @@
+respondent_id,age_group,gender,education,heard_term_gender_sensitization,gender_is_binary_or_nonbinary,received_gender_training,support_school_curriculum,support_workplace_training,sensitization_helps_relationships,stereotype_men_rational_women_emotional,stereotype_women_bad_drivers,view_okay_for_men_to_cry,stereotype_men_strong_women_weak,stereotype_women_better_housekeepers,stereotype_gentle_men_less_masculine,childcare_only_mother_responsibility,woman_home_man_provider_role,chores_divided_equally_if_both_work,support_equal_pay,support_gender_diversity_quotas,discrimination_observed_nearby,support_gender_neutral_language,encourage_girls_nontraditional_careers,man_should_have_final_say_home,woman_should_not_tolerate_violence,sexist_jokes_okay,sensitization_reduces_gbv
+R0001,18-25,Female,Bachelor's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,Maybe,No,Yes
+R0002,18-25,Male,Bachelor's degree,No,Non-binary,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0003,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"No, not required","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Agree,Disagree,No,Yes,"No, the woman should manage both",Yes,Yes,No,Yes,Maybe,No,No,No,Yes
+R0004,18-25,Male,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0005,26-35,Male,Master's degree,Yes,Non-binary,Yes,Maybe,Maybe,Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Unsure,Maybe,Yes,No,Yes,Maybe,Yes
+R0006,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0007,26-35,Male,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Yes,No,Yes
+R0008,18-25,Male,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Neutral,Neutral,Disagree,Neutral,Neutral,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,Maybe,Maybe
+R0009,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Neutral,Agree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0010,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Neutral,Neutral,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Maybe,No,Yes
+R0011,18-25,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0012,18-25,Male,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Maybe,Maybe,Maybe,Yes,Maybe
+R0013,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Neutral,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,No,No,No,No,Maybe
+R0014,26-35,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",No,Yes,No,Maybe,Yes,No,No,No,Yes
+R0015,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Yes,Maybe
+R0016,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+R0017,26-35,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+R0018,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,Yes,Yes,Maybe
+R0019,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,No
+R0020,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0021,26-35,Female,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+R0022,18-25,Female,Master's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Maybe
+R0023,26-35,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0024,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Agree,Agree,Yes,Yes,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,Maybe,No,Yes,Yes
+R0025,18-25,Male,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Neutral,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes
+R0026,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",No,No,No,Yes,Maybe,No,No,No,Maybe
+R0027,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,No,Yes,No,Maybe,No,No,Yes
+R0028,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,No,No,No,Maybe,No
+R0029,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,No,Yes,No,Yes,No,No
+R0030,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely","No, not required",Yes,Neutral,Neutral,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0031,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,Yes,No,No
+R0032,18-25,Male,Master's degree,Yes,Non-binary,No,Maybe,Maybe,Maybe,Agree,Disagree,Agree,Disagree,Neutral,Agree,Yes,No,"Yes, definitely",No,No,Yes,Yes,Yes,Maybe,No,No,Maybe
+R0033,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Neutral,Agree,Disagree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,No,Unsure,Yes,Yes,No,No,No,No
+R0034,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Neutral,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0035,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,Yes,No,"No, the woman should manage both",Yes,Unsure,No,Yes,Yes,No,Yes,No,Yes
+R0036,26-35,Male,Bachelor's degree,No,Unsure,No,"No, not required","No, not required",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Yes,Maybe,No,Yes,No,Yes
+R0037,26-35,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,No,No,No,No,Maybe
+R0038,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,No,No,Maybe
+R0039,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Yes,Yes,Yes
+R0040,26-35,Male,High school or equivalent,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Maybe,No,Yes,No,Yes
+R0041,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+R0042,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Yes,No,No,Yes
+R0043,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+R0044,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,No,No,Yes,Maybe,No,No,Yes,Maybe
+R0045,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Neutral,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0046,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0047,18-25,Male,High school or equivalent,No,Binary,No,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,No,Yes
+R0048,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0049,18-25,Female,Bachelor's degree,No,Unsure,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Yes
+R0050,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,Maybe,Maybe,No,Yes
+R0051,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0052,18-25,Female,High school or equivalent,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Maybe
+R0053,18-25,Male,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Neutral,Yes,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,Maybe,No,No,Maybe
+R0054,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Maybe,No,Yes
+R0055,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Neutral,Agree,Neutral,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0056,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Neutral,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Yes
+R0057,26-35,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"No, the woman should manage both",Yes,Unsure,Yes,Yes,Maybe,No,Yes,No,Yes
+R0058,18-25,Female,Bachelor's degree,Yes,Binary,No,Maybe,Maybe,Yes,Neutral,Disagree,Agree,Disagree,Agree,Agree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Maybe,No
+R0059,18-25,Male,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,Yes,Yes,Yes
+R0060,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Maybe
+R0061,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Neutral,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0062,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Disagree,Disagree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0063,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Neutral,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0064,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+R0065,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",No,Agree,Agree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0066,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Agree,Agree,Yes,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Yes,No,Maybe,Maybe
+R0067,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0068,18-25,Female,Master's degree,No,Non-binary,No,"No, not required","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,Maybe,Maybe,Yes,Maybe
+R0069,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",No,Neutral,Disagree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Maybe,Maybe,Yes,No,Yes
+R0070,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,No,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Maybe,No,No,Yes
+R0071,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0072,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",No,Unsure,Yes,No,Yes,No,Yes,No,Maybe
+R0073,18-25,Female,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0074,18-25,Female,Bachelor's degree,No,Non-binary,No,Maybe,"Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+R0075,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","No, not required",Maybe,Neutral,Disagree,Agree,Disagree,Neutral,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,No,No,Maybe
+R0076,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Maybe,No,Maybe,No,Maybe
+R0077,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"No, the woman should manage both",Yes,Unsure,Unsure,Yes,Yes,No,No,No,Yes
+R0078,18-25,Female,Bachelor's degree,Yes,Binary,Yes,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,Yes,Maybe
+R0079,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,Yes,Yes,No,Yes
+R0080,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0081,18-25,Male,High school or equivalent,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Agree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0082,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Disagree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,Yes,No
+R0083,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0084,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,Yes,Maybe
+R0085,18-25,Female,Bachelor's degree,No,Binary,No,"No, not required","No, not required",Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,No,No,Yes,No,Yes
+R0086,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Neutral,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Yes,No,Yes
+R0087,18-25,Female,Master's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,Maybe,Yes
+R0088,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0089,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0090,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0091,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,No,Yes,Yes,No,Yes,No,Maybe
+R0092,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,No
+R0093,18-25,Male,Master's degree,No,Non-binary,Yes,"No, not required",Maybe,Maybe,Neutral,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0094,26-35,Male,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0095,18-25,Female,Bachelor's degree,No,Non-binary,Yes,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0096,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0097,18-25,Male,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,Yes,No,Yes
+R0098,26-35,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",No,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0099,18-25,Male,High school or equivalent,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,No
+R0100,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0101,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,Yes,No,Maybe
+R0102,26-35,Female,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,Yes,Maybe
+R0103,Less than 18,Female,Bachelor's degree,No,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Neutral,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0104,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Agree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+R0105,18-25,Female,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",No,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,No,No,No,Yes
+R0106,18-25,Female,High school or equivalent,No,Non-binary,Yes,Maybe,Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0107,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Maybe,No,No
+R0108,26-35,Female,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",No,Agree,Neutral,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,Yes,Maybe,Maybe,No,No,No,Maybe
+R0109,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",No,No,No,Maybe,No,No,Yes,No,Yes
+R0110,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",No,Disagree,Neutral,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,No,Maybe,No,No,Maybe
+R0111,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","No, not required",Yes,Neutral,Agree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,No,Yes
+R0112,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Disagree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,No,Yes,Yes
+R0113,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0114,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"No, the woman should manage both",Yes,Yes,No,Maybe,Yes,No,Yes,No,Maybe
+R0115,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Neutral,Disagree,Yes,No,"No, the woman should manage both",Yes,Unsure,No,Maybe,Yes,Maybe,Yes,No,Yes
+R0116,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Neutral,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0117,18-25,Female,High school or equivalent,No,Binary,No,"Yes, definitely","No, not required",Maybe,Agree,Disagree,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",No,Yes,No,Yes,Yes,No,No,No,Maybe
+R0118,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0119,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Neutral,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,No,No,Yes,Maybe,No,No,No,Yes
+R0120,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,No,No,Yes,No,No
+R0121,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Neutral,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+R0122,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Maybe,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Maybe,No,Yes,No,Maybe
+R0123,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,No,Yes
+R0124,18-25,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0125,More than 35,Female,Bachelor's degree,No,Binary,Yes,"No, not required","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,No,No,No,No,No
+R0126,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0127,18-25,Male,Master's degree,Yes,Binary,No,Maybe,Maybe,Yes,Agree,Agree,Agree,Disagree,Agree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0128,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Agree,Neutral,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,Maybe,No,No,Yes
+R0129,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,No,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,Yes
+R0130,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Disagree,Agree,Agree,Disagree,Neutral,Agree,No,Yes,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,No,Yes,No,Maybe
+R0131,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0132,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Maybe,Yes,No,Yes,Yes
+R0133,26-35,Female,Bachelor's degree,Yes,Non-binary,Yes,"No, not required",Maybe,Yes,Disagree,Neutral,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,No,Yes,No,Maybe,Maybe,Yes
+R0134,18-25,Male,Bachelor's degree,Yes,Binary,No,Maybe,"Yes, definitely",No,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0135,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Maybe,Yes,Maybe,Yes,No,Yes
+R0136,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"No, not required","No, not required",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,Maybe,No,No,No
+R0137,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0138,18-25,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Neutral,Agree,Neutral,Agree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Maybe,Maybe,No,No,Yes
+R0139,18-25,Female,Bachelor's degree,No,Non-binary,Yes,Maybe,"Yes, definitely",Yes,Neutral,Agree,Disagree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,No,Yes,No,Yes,No
+R0140,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Maybe,No,Yes,No,Yes
+R0141,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Neutral,Agree,Disagree,Neutral,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0142,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Neutral,Disagree,Disagree,Neutral,Neutral,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0143,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0144,18-25,Male,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,No,Yes
+R0145,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",No,Disagree,Neutral,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,Maybe,Yes
+R0146,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0147,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,No
+R0148,18-25,Male,Bachelor's degree,No,Unsure,No,Maybe,"Yes, definitely",Maybe,Disagree,Agree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0149,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,No,Yes
+R0150,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Agree,Agree,Disagree,Agree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0151,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Yes,No,Yes
+R0152,18-25,Male,High school or equivalent,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0153,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Neutral,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Maybe,Maybe
+R0154,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Maybe
+R0155,26-35,Male,Bachelor's degree,Yes,Unsure,Yes,"No, not required","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Yes,No,No,Yes
+R0156,18-25,Female,Master's degree,No,Unsure,No,"No, not required","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,No,Yes
+R0157,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,Yes,Yes
+R0158,More than 35,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Maybe,Maybe,No,Yes
+R0159,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0160,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+R0161,18-25,Male,Bachelor's degree,No,Binary,No,Maybe,"Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0162,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Agree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0163,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+R0164,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Agree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,Yes,No,No,No
+R0165,More than 35,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0166,18-25,Female,High school or equivalent,Yes,Binary,No,"No, not required","No, not required",Yes,Agree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0167,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Maybe,Disagree,Agree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,Yes,No,No,Yes
+R0168,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0169,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0170,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,Yes,No,Maybe
+R0171,18-25,Male,Bachelor's degree,No,Non-binary,No,"No, not required","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0172,26-35,Male,Bachelor's degree,Yes,Unsure,Yes,Maybe,"Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,No,No,Maybe
+R0173,18-25,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0174,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",No,Yes,Unsure,Yes,Yes,No,Yes,No,Yes
+R0175,18-25,Female,Bachelor's degree,Yes,Unsure,No,Maybe,Maybe,Yes,Disagree,Agree,Agree,Agree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,No,No,Yes
+R0176,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Neutral,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,Yes,No,Yes
+R0177,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Neutral,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Maybe,No,No,Yes
+R0178,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",No,Unsure,Yes,Yes,Maybe,No,No,Yes,No
+R0179,26-35,Female,Bachelor's degree,Yes,Non-binary,No,Maybe,"No, not required",Yes,Disagree,Agree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,Maybe
+R0180,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Neutral,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0181,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0182,18-25,Female,Master's degree,No,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0183,18-25,Male,Master's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0184,18-25,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Agree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0185,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,No,No,Yes,Yes,Yes,Maybe,Yes
+R0186,18-25,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Neutral,Agree,Yes,No,"Yes, definitely",Yes,No,Unsure,Yes,Yes,No,No,No,Yes
+R0187,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Yes,No,No,Maybe
+R0188,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Neutral,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,No,Yes,Yes,No,No,No,Yes
+R0189,18-25,Female,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Neutral,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,Yes,No,Yes
+R0190,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0191,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,Maybe,No,Yes
+R0192,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0193,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0194,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely",Maybe,Maybe,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0195,18-25,Female,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Agree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,No,No,No,Yes
+R0196,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Agree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0197,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",No,Unsure,No,Yes,Yes,Maybe,No,No,No
+R0198,18-25,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,Maybe,Maybe
+R0199,18-25,Female,High school or equivalent,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,No,Unsure,Yes,Yes,No,Yes,No,Yes
+R0200,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,No,No,Maybe
+R0201,18-25,Female,Master's degree,Yes,Unsure,Yes,"No, not required",Maybe,Yes,Agree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0202,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"No, not required","Yes, definitely",Maybe,Neutral,Disagree,Agree,Agree,Neutral,Agree,No,No,"Yes, definitely",No,Unsure,No,Yes,Yes,Maybe,No,Yes,Yes
+R0203,26-35,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Maybe,Yes,No,No,Yes
+R0204,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Neutral,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,Yes,No,No
+R0205,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0206,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0207,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Maybe,Yes,Yes,No,No,Yes
+R0208,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Agree,Yes,No,"Yes, definitely",Yes,No,No,Yes,Yes,No,No,No,Maybe
+R0209,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,No,No,No
+R0210,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,Yes,Yes
+R0211,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Agree,Agree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,No,Yes
+R0212,18-25,Female,High school or equivalent,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Maybe
+R0213,18-25,Female,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,No,No,Yes,Yes
+R0214,18-25,Female,High school or equivalent,Yes,Binary,No,"Yes, definitely",Maybe,Maybe,Agree,Neutral,Agree,Agree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,Maybe,Yes
+R0215,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Maybe,Yes
+R0216,18-25,Female,High school or equivalent,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Agree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Yes,No,Yes
+R0217,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,No,Yes,No,Yes,No,No,Yes
+R0218,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,No,No,Yes,No,Yes
+R0219,More than 35,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,No
+R0220,18-25,Male,Bachelor's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Maybe,No,Yes,Yes
+R0221,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Maybe,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0222,18-25,Male,Master's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0223,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","No, not required",Yes,Agree,Disagree,Disagree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,No,No,Yes,Yes,Yes,No,No,Maybe
+R0224,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,Yes,Maybe
+R0225,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Agree,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,No
+R0226,18-25,Female,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,Maybe,Yes
+R0227,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Neutral,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0228,18-25,Male,Bachelor's degree,No,Binary,Yes,Maybe,"Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Unsure,No,Yes,Maybe,No,No,Maybe
+R0229,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Maybe,Yes
+R0230,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0231,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0232,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,No,No,No,No,Maybe
+R0233,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,No,Yes,Yes
+R0234,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",No,No,Yes,No,Yes,No,Yes,No,Yes
+R0235,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0236,18-25,Male,Bachelor's degree,No,Non-binary,No,Maybe,"No, not required",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Yes,Yes,No,Maybe
+R0237,26-35,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,Maybe,Maybe
+R0238,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,Maybe,No,Maybe,No,Yes
+R0239,18-25,Female,Bachelor's degree,No,Unsure,No,Maybe,Maybe,Yes,Agree,Neutral,Agree,Neutral,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,No,Yes,Yes,No,Yes,No,Yes
+R0240,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+R0241,18-25,Male,Master's degree,No,Binary,No,"No, not required","Yes, definitely",Yes,Neutral,Neutral,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,Maybe,No,No,Yes
+R0242,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,No
+R0243,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Neutral,Neutral,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,Yes,Maybe
+R0244,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Maybe,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,No,Yes,Maybe,No,Yes,No,Yes
+R0245,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Maybe,No,Yes
+R0246,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Disagree,Agree,Agree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Unsure,Yes,No,No,Yes,No,Maybe
+R0247,18-25,Female,High school or equivalent,Yes,Binary,Yes,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Neutral,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0248,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+R0249,26-35,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0250,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely",Maybe,Yes,Neutral,Agree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",No,Yes,Yes,Yes,No,No,No,No,Yes
+R0251,18-25,Male,High school or equivalent,Yes,Binary,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,Maybe,No,No,Yes
+R0252,18-25,Female,High school or equivalent,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0253,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,No,"No, the woman should manage both",Yes,Yes,No,Maybe,Yes,Yes,No,No,No
+R0254,18-25,Female,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0255,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,No,No,Yes
+R0256,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+R0257,18-25,Male,High school or equivalent,No,Unsure,Yes,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+R0258,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Neutral,Agree,Disagree,Agree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0259,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",No,No,Unsure,Yes,Maybe,No,No,No,Yes
+R0260,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0261,26-35,Male,Bachelor's degree,No,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,No,No,Maybe,Yes
+R0262,18-25,Male,Bachelor's degree,Yes,Binary,No,Maybe,"Yes, definitely",Maybe,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,No,No,Maybe
+R0263,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","No, not required",Maybe,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Maybe
+R0264,26-35,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Agree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0265,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0266,26-35,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Disagree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,No,Yes,Yes
+R0267,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",No,Yes,No,Yes,Yes,Yes,No,No,Maybe
+R0268,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,No,Yes,Yes,Yes,Yes,No,Yes
+R0269,18-25,Female,High school or equivalent,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Yes,No,Yes,Yes
+R0270,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Yes,No,Maybe
+R0271,More than 35,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Agree,Agree,Agree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0272,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0273,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0274,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0275,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Neutral,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0276,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+R0277,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",No,Neutral,Neutral,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,Yes
+R0278,18-25,Female,High school or equivalent,No,Unsure,No,"No, not required",Maybe,Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0279,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0280,18-25,Female,High school or equivalent,No,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Agree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Maybe,Yes,Maybe,No,No,Maybe
+R0281,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0282,18-25,Female,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"No, the woman should manage both",Yes,Yes,Yes,Yes,Maybe,Maybe,No,No,Yes
+R0283,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0284,26-35,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,Yes,No,Maybe
+R0285,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Disagree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,Yes,No,No,Maybe
+R0286,More than 35,Female,High school or equivalent,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,No,No,No,Maybe
+R0287,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,No,No,Yes,Yes,Maybe,No,No,Yes
+R0288,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",No,Agree,Agree,Agree,Agree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0289,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",No,Unsure,Yes,No,Yes,Maybe,No,No,Maybe
+R0290,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Neutral,Yes,No,"Yes, definitely",Yes,No,No,Yes,Yes,No,No,No,Yes
+R0291,26-35,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Neutral,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0292,18-25,Male,High school or equivalent,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,Maybe,Yes
+R0293,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Disagree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0294,18-25,Female,Master's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0295,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,No,No,Maybe
+R0296,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Neutral,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0297,26-35,Male,Bachelor's degree,No,Binary,Yes,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0298,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+R0299,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Neutral,Neutral,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0300,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0301,18-25,Female,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Maybe
+R0302,18-25,Female,Bachelor's degree,Yes,Binary,No,"No, not required",Maybe,Yes,Agree,Neutral,Disagree,Disagree,Agree,Agree,No,No,"No, the woman should manage both",Yes,Yes,No,Maybe,Yes,No,No,No,Yes
+R0303,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,No,No,Yes,No,No
+R0304,18-25,Female,High school or equivalent,No,Binary,No,"Yes, definitely","No, not required",Yes,Neutral,Neutral,Agree,Agree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Maybe
+R0305,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"No, the woman should manage both",Yes,Unsure,Unsure,Yes,No,No,No,Maybe,No
+R0306,26-35,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0307,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Maybe
+R0308,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Neutral,Disagree,No,No,"Yes, definitely",No,Yes,Yes,No,Yes,Yes,No,No,Yes
+R0309,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Disagree,Disagree,Neutral,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,No
+R0310,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Neutral,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0311,18-25,Male,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Maybe,No,No,No,Yes,Yes
+R0312,Less than 18,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,Yes,Maybe,Yes
+R0313,18-25,Male,High school or equivalent,No,Unsure,No,"Yes, definitely",Maybe,Yes,Agree,Neutral,Disagree,Disagree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Yes,Maybe,Yes,Yes,No,No
+R0314,18-25,Male,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",No,Disagree,Neutral,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+R0315,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"No, not required","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0316,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Maybe,No,No,No,No
+R0317,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Neutral,Neutral,Agree,Agree,Agree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,No
+R0318,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Maybe,No,No,No,Yes
+R0319,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Maybe,No,No,Yes
+R0320,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,No,Maybe
+R0321,18-25,Male,High school or equivalent,Yes,Non-binary,Yes,Maybe,Maybe,Maybe,Neutral,Neutral,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,No
+R0322,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Agree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0323,26-35,Male,Master's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Maybe,No,Maybe
+R0324,26-35,Female,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,No,Yes,Yes
+R0325,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Neutral,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,No,Yes
+R0326,Less than 18,Female,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Agree,Agree,Yes,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0327,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,Maybe,Maybe,Yes,Agree,Agree,Agree,Neutral,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0328,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Maybe,No,No,Yes
+R0329,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,No,No,No,Maybe,Maybe
+R0330,18-25,Male,Master's degree,No,Unsure,No,"Yes, definitely",Maybe,No,Neutral,Agree,Agree,Agree,Agree,Neutral,No,No,"Yes, definitely",No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+R0331,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,No,Yes,Maybe
+R0332,18-25,Male,Bachelor's degree,Yes,Unsure,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,No,No,Yes
+R0333,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Neutral,Disagree,Disagree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0334,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,No,No,Yes,No,Maybe
+R0335,18-25,Male,Bachelor's degree,Yes,Unsure,No,Maybe,Maybe,Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,Yes,No,Yes
+R0336,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Agree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,No,Yes,No
+R0337,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,Maybe,"Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,Unsure,No,Yes,No,No,No,Maybe
+R0338,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Disagree,Disagree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,No
+R0339,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,Maybe,"Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Maybe
+R0340,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Agree,Disagree,Disagree,Yes,No,"No, the woman should manage both",Yes,Yes,Unsure,Yes,Yes,No,No,No,Maybe
+R0341,18-25,Female,High school or equivalent,No,Binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0342,26-35,Female,Master's degree,No,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Agree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Maybe,Yes,Yes
+R0343,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Neutral,Neutral,Agree,Disagree,Neutral,Disagree,Yes,Yes,"Yes, definitely",Yes,No,Yes,Yes,No,Maybe,No,Maybe,Yes
+R0344,18-25,Female,Master's degree,Yes,Binary,No,"No, not required","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0345,26-35,Female,High school or equivalent,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,No,Yes
+R0346,26-35,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes
+R0347,18-25,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0348,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0349,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,Yes,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0350,18-25,Female,High school or equivalent,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Neutral,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,No,Maybe,No,Yes,No,Maybe
+R0351,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,No,No,No,No
+R0352,18-25,Male,Bachelor's degree,No,Binary,No,"No, not required","No, not required",Maybe,Agree,Disagree,Agree,Neutral,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Maybe,Yes
+R0353,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0354,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","No, not required",Yes,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0355,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0356,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,No,Yes
+R0357,18-25,Female,High school or equivalent,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Neutral,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",No,No,Yes,Yes,Yes,No,No,No,Yes
+R0358,More than 35,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Neutral,Disagree,Disagree,Agree,Disagree,No,Yes,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,Yes,Maybe,No,No
+R0359,26-35,Male,Bachelor's degree,No,Unsure,No,Maybe,"Yes, definitely",No,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,Yes,No,Maybe
+R0360,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Yes,No,Yes
+R0361,More than 35,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Neutral,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0362,18-25,Female,Bachelor's degree,No,Non-binary,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0363,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,No,No,No
+R0364,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,No,Maybe,Yes,Yes,No,Yes,Yes
+R0365,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0366,26-35,Male,Master's degree,Yes,Non-binary,Yes,"No, not required","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,Yes,No,Yes
+R0367,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",No,Agree,Disagree,Agree,Agree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,No,Unsure,Maybe,Yes,No,Yes,No,Maybe
+R0368,18-25,Female,High school or equivalent,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Neutral,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0369,18-25,Female,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0370,18-25,Male,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Agree,Neutral,Disagree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,No,Yes
+R0371,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Neutral,Disagree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,No
+R0372,18-25,Male,Master's degree,No,Binary,Yes,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,No,Yes,No,No,No,Yes
+R0373,18-25,Female,Bachelor's degree,No,Unsure,No,"No, not required","Yes, definitely",Yes,Disagree,Agree,Agree,Agree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0374,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",No,Yes,No,Yes,Yes,Yes,No,Maybe,No
+R0375,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Maybe
+R0376,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Maybe
+R0377,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,Yes,Yes
+R0378,18-25,Female,High school or equivalent,Yes,Non-binary,Yes,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+R0379,18-25,Female,High school or equivalent,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Disagree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Maybe,Yes,No,Yes
+R0380,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Neutral,Agree,Agree,Neutral,Yes,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,No,Yes
+R0381,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0382,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Disagree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,Yes,Maybe
+R0383,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,Maybe,"No, not required",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,No,Maybe
+R0384,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Maybe,No,No,No,No,Yes
+R0385,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",No,Disagree,Neutral,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",No,Yes,No,Yes,Yes,No,No,Maybe,Yes
+R0386,18-25,Female,Master's degree,Yes,Binary,No,Maybe,"Yes, definitely",Yes,Agree,Neutral,Neutral,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Maybe
+R0387,26-35,Male,Master's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Agree,Agree,Agree,Neutral,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,No,Maybe,Yes,No,No,Yes
+R0388,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,Maybe,No,No,Yes
+R0389,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Yes,No,Maybe
+R0390,18-25,Male,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0391,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,No
+R0392,Less than 18,Male,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Maybe,No,No,Yes
+R0393,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+R0394,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Maybe,Yes,Yes,No,No,Yes
+R0395,26-35,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0396,26-35,Female,Bachelor's degree,No,Binary,No,Maybe,"Yes, definitely",Yes,Agree,Agree,Disagree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0397,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Maybe,Yes,No,No,Maybe
+R0398,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,Yes,Maybe,Maybe,Maybe
+R0399,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0400,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Neutral,Disagree,Neutral,Neutral,No,No,"Yes, definitely",Yes,Unsure,No,Maybe,Yes,No,Yes,No,No
+R0401,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,No,Yes,Yes,No,No,Maybe
+R0402,18-25,Male,High school or equivalent,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,Yes,Yes,Yes
+R0403,18-25,Male,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Maybe,Agree,Agree,Agree,Agree,Agree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0404,18-25,Female,High school or equivalent,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0405,18-25,Male,High school or equivalent,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Agree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0406,18-25,Female,Master's degree,No,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Neutral,Neutral,Yes,No,"Yes, definitely",Yes,Yes,Unsure,No,Yes,Yes,Yes,No,Yes
+R0407,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,No,Maybe,Yes,No,Yes,No,No
+R0408,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0409,18-25,Male,High school or equivalent,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0410,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,No,Disagree,Disagree,Agree,Agree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+R0411,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,Yes,No
+R0412,18-25,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Agree,Disagree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Maybe
+R0413,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0414,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,Maybe,No,Yes
+R0415,18-25,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Neutral,Disagree,Agree,Agree,Neutral,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,Yes,No,Yes
+R0416,18-25,Female,Bachelor's degree,Yes,Binary,Yes,Maybe,"No, not required",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0417,18-25,Female,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,Yes,No,Maybe
+R0418,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",No,Disagree,Neutral,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Maybe,Maybe,Yes,No,Yes
+R0419,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0420,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0421,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0422,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0423,18-25,Female,Bachelor's degree,No,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Maybe,No,No,No,Yes
+R0424,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+R0425,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Neutral,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,Maybe
+R0426,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"No, the woman should manage both",Yes,No,No,Yes,Maybe,No,Yes,No,Yes
+R0427,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Neutral,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0428,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Yes,No,Yes,Yes
+R0429,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,No
+R0430,18-25,Male,High school or equivalent,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,No,Yes,No,Yes,Maybe
+R0431,26-35,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0432,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Agree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0433,18-25,Female,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,No,No
+R0434,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",No,Yes,No,Yes,Yes,Maybe,No,No,Yes
+R0435,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Maybe
+R0436,18-25,Male,Master's degree,Yes,Unsure,Yes,Maybe,"No, not required",Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,No,Yes
+R0437,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Maybe,Agree,Disagree,Agree,Neutral,Agree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0438,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Maybe,Agree,Agree,Agree,Agree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0439,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,Maybe,"Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0440,More than 35,Male,High school or equivalent,No,Non-binary,No,"No, not required","No, not required",Yes,Neutral,Agree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,No
+R0441,18-25,Female,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",No,Neutral,Disagree,Disagree,Neutral,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,Maybe,No,No,Yes
+R0442,18-25,Female,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Disagree,Agree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0443,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"No, not required","No, not required",Yes,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,No,No,No,No,Maybe
+R0444,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+R0445,26-35,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+R0446,18-25,Female,Master's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Neutral,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Yes,Maybe
+R0447,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Unsure,Yes,Yes,No,Yes,No,Yes
+R0448,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,Yes
+R0449,18-25,Male,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Maybe,Yes,Maybe,Yes,No,Yes
+R0450,26-35,Female,Bachelor's degree,Yes,Unsure,Yes,Maybe,"No, not required",Yes,Disagree,Agree,Neutral,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,No,Yes,No,No,No,No,Yes
+R0451,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,No,No,Yes
+R0452,26-35,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Neutral,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Maybe,Yes
+R0453,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,Maybe,Yes
+R0454,18-25,Male,High school or equivalent,No,Non-binary,No,"No, not required","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,Maybe,Maybe
+R0455,18-25,Female,Bachelor's degree,Yes,Binary,No,Maybe,"Yes, definitely",Yes,Neutral,Neutral,Disagree,Neutral,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,Yes,Maybe
+R0456,26-35,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0457,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Agree,Yes,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,Yes,Yes
+R0458,26-35,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Disagree,Agree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+R0459,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0460,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0461,18-25,Male,High school or equivalent,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Disagree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0462,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0463,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",No,Disagree,Neutral,Agree,Disagree,Disagree,Agree,No,Yes,"No, the woman should manage both",No,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0464,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Maybe,Yes,Yes,No,No,Yes
+R0465,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+R0466,18-25,Female,Master's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Disagree,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Maybe,No,Yes,No,No
+R0467,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Neutral,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0468,18-25,Female,Master's degree,No,Unsure,No,Maybe,"No, not required",Maybe,Agree,Agree,Agree,Disagree,Agree,Neutral,No,No,"No, the woman should manage both",Yes,No,Unsure,Yes,Yes,Yes,No,Yes,Yes
+R0469,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,Yes,Yes
+R0470,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0471,18-25,Female,Master's degree,Yes,Binary,No,Maybe,"Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+R0472,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Agree,Agree,Agree,Yes,No,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0473,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",No,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,Yes,No,No
+R0474,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Neutral,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,No,Yes,No,Yes
+R0475,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0476,26-35,Male,High school or equivalent,Yes,Non-binary,Yes,"Yes, definitely","No, not required",Maybe,Disagree,Agree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,No,No,Maybe,Yes,Maybe,No,No,Yes
+R0477,18-25,Male,Bachelor's degree,No,Binary,No,"No, not required",Maybe,Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Yes
+R0478,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely",Maybe,Maybe,Agree,Agree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,No,Maybe
+R0479,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Agree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",No,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0480,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,No,Yes
+R0481,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,Yes,Yes
+R0482,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,No,No,Yes
+R0483,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Maybe,No,No,No,Maybe
+R0484,26-35,Female,Master's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Unsure,Yes,Yes,Yes,No,Yes,Yes
+R0485,Less than 18,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes,Yes
+R0486,26-35,Female,Master's degree,No,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0487,18-25,Female,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Neutral,Neutral,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+R0488,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"No, not required",Maybe,Yes,Disagree,Neutral,Agree,Disagree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Yes,Maybe,Yes
+R0489,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+R0490,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0491,18-25,Male,High school or equivalent,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Maybe,No,No,No,No
+R0492,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","No, not required",Yes,Disagree,Agree,Agree,Disagree,Neutral,Disagree,No,Yes,"No, the woman should manage both",Yes,Yes,No,Maybe,Yes,No,No,No,Maybe
+R0493,26-35,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,Yes,Maybe
+R0494,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0495,18-25,Male,Master's degree,Yes,Non-binary,No,Maybe,Maybe,Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0496,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","No, not required",Maybe,Neutral,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Maybe,No,Yes
+R0497,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Maybe,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,No,Maybe,Yes,No,No,Yes,Yes
+R0498,18-25,Male,High school or equivalent,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,No,Yes
+R0499,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Maybe,No,Yes,No,No
+R0500,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Maybe,Yes
+R0501,26-35,Male,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Neutral,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,Yes,No
+R0502,26-35,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,No,No,Yes,Maybe,Yes
+R0503,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,Yes,Yes
+R0504,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,No,Maybe
+R0505,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Neutral,Disagree,No,No,"Yes, definitely",No,Yes,No,Yes,Maybe,No,No,No,Yes
+R0506,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",No,Unsure,Yes,Maybe,Yes,Yes,No,No,Maybe
+R0507,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"No, not required","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,No,Yes
+R0508,18-25,Female,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Neutral,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0509,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0510,26-35,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",No,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0511,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"No, the woman should manage both",No,Yes,No,Yes,Yes,No,No,Yes,Yes
+R0512,18-25,Male,High school or equivalent,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Neutral,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,No,Yes,No,No,Yes,Yes
+R0513,18-25,Female,Master's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,No,Maybe,No,No,Maybe
+R0514,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Maybe
+R0515,18-25,Male,Master's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Disagree,Agree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Maybe,No,Yes
+R0516,More than 35,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Neutral,Disagree,Disagree,Yes,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0517,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0518,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Disagree,Neutral,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,No,No
+R0519,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Maybe,Yes,No,Yes,Yes
+R0520,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Neutral,No,No,"Yes, definitely",No,No,Yes,Maybe,Yes,No,Yes,No,Yes
+R0521,18-25,Male,Master's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,Maybe,Maybe
+R0522,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Neutral,Agree,Disagree,Agree,Yes,Yes,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,No,No,Maybe,Yes
+R0523,18-25,Male,Bachelor's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Maybe,Maybe,No,No,Yes
+R0524,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,No,Yes
+R0525,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Agree,Neutral,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Maybe,Yes,No
+R0526,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Neutral,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,Maybe,No,Yes
+R0527,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Neutral,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0528,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0529,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Agree,Agree,Disagree,Agree,Neutral,No,No,"No, the woman should manage both",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0530,18-25,Female,Bachelor's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Maybe,No
+R0531,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0532,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Maybe,Disagree,Disagree,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Maybe
+R0533,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Disagree,Agree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Maybe,No,No,Maybe,Maybe
+R0534,18-25,Female,Master's degree,No,Non-binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,No,No,No,No,Yes
+R0535,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Agree,Neutral,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Maybe
+R0536,More than 35,Male,Bachelor's degree,No,Unsure,Yes,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,No,Yes,Maybe,No,No,Yes
+R0537,Less than 18,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Disagree,Agree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+R0538,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,No,No,Maybe,Yes,Maybe,No,Maybe,Yes
+R0539,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Neutral,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Maybe
+R0540,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely",Maybe,Maybe,Agree,Agree,Disagree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+R0541,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,No,No,Yes,Yes,No,Maybe,No,Maybe
+R0542,18-25,Female,Master's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0543,18-25,Male,High school or equivalent,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0544,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Agree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0545,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0546,18-25,Male,High school or equivalent,No,Unsure,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,No,No,Yes
+R0547,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Neutral,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Maybe,No,Yes,No,Maybe
+R0548,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,Maybe,Yes,Maybe,Maybe
+R0549,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Agree,Disagree,Neutral,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,Yes
+R0550,26-35,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0551,26-35,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0552,18-25,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0553,18-25,Female,Bachelor's degree,No,Non-binary,No,Maybe,"Yes, definitely",No,Agree,Agree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",No,No,Yes,Yes,Yes,No,No,No,Yes
+R0554,18-25,Male,High school or equivalent,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",No,Yes,No,Maybe,Maybe,No,Yes,No,No
+R0555,18-25,Female,Master's degree,No,Binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,Yes,No,Yes,Maybe
+R0556,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,Maybe,No,No,Yes
+R0557,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","No, not required",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0558,18-25,Female,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,No,Yes
+R0559,18-25,Female,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Disagree,Agree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0560,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,Yes,Yes,Maybe
+R0561,26-35,Female,High school or equivalent,No,Binary,No,"Yes, definitely","Yes, definitely",No,Agree,Disagree,Agree,Agree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Maybe,Yes,No,Yes
+R0562,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0563,18-25,Male,Bachelor's degree,No,Non-binary,No,"No, not required","No, not required",Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,No,No,No,No,Yes
+R0564,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Maybe,Agree,Disagree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,No,No,No,No,Maybe
+R0565,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Neutral,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,No,No,Maybe
+R0566,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Maybe,No,No
+R0567,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,No,No,Yes
+R0568,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,No,No,Yes,Yes,No,No,No,Maybe
+R0569,18-25,Male,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Agree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0570,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","No, not required",Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,No,Yes,Maybe,No,Maybe,Yes
+R0571,18-25,Female,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Neutral,Neutral,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0572,26-35,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Disagree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,Yes,No,Yes
+R0573,18-25,Male,High school or equivalent,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+R0574,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Maybe,Maybe
+R0575,18-25,Male,Bachelor's degree,Yes,Binary,No,Maybe,"No, not required",Maybe,Disagree,Disagree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Maybe,Maybe,Yes,Yes,Maybe
+R0576,Less than 18,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0577,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"No, not required","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Agree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0578,18-25,Female,High school or equivalent,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+R0579,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Maybe
+R0580,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,Maybe,No,No,Yes
+R0581,18-25,Female,Bachelor's degree,Yes,Binary,No,Maybe,Maybe,Yes,Agree,Agree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Yes,No,Yes
+R0582,18-25,Female,High school or equivalent,No,Non-binary,No,Maybe,"Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,No,Yes
+R0583,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,Yes,No,Yes
+R0584,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+R0585,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0586,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Disagree,Neutral,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,No,Yes,Yes,No,No
+R0587,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,No,Maybe,Yes,No,Maybe,Maybe
+R0588,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Disagree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,No,No,Yes
+R0589,18-25,Male,Bachelor's degree,No,Non-binary,No,Maybe,"Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,No
+R0590,18-25,Female,High school or equivalent,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,No,Yes
+R0591,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,No
+R0592,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+R0593,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Maybe
+R0594,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,Maybe,No
+R0595,18-25,Female,Master's degree,No,Non-binary,Yes,"Yes, definitely","No, not required",Yes,Agree,Neutral,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Maybe
+R0596,26-35,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Agree,Neutral,Neutral,No,No,"Yes, definitely",No,Unsure,Yes,Maybe,Maybe,Maybe,Yes,Yes,Yes
+R0597,18-25,Male,Bachelor's degree,No,Binary,No,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,No,Yes
+R0598,26-35,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Disagree,Disagree,Neutral,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,Yes,No
+R0599,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0600,Less than 18,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Maybe,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Maybe,No,Yes
+R0601,18-25,Female,Bachelor's degree,Yes,Binary,Yes,Maybe,"Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,No,Unsure,Yes,No,No,No,No,Yes
+R0602,18-25,Male,High school or equivalent,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,No,No,No
+R0603,18-25,Female,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Neutral,Disagree,Neutral,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Maybe,Yes,Maybe,No,No,Yes
+R0604,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0605,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,No,Yes
+R0606,18-25,Male,High school or equivalent,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Maybe,No,Yes,Yes,Maybe
+R0607,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Yes,No,No,Yes
+R0608,18-25,Male,High school or equivalent,Yes,Unsure,No,"No, not required","Yes, definitely",Yes,Agree,Agree,Agree,Neutral,Agree,Disagree,No,No,"Yes, definitely",No,Yes,Unsure,Yes,Yes,Maybe,No,Yes,Yes
+R0609,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,No,Yes,Yes,No,No,No,No,Yes
+R0610,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,No,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Yes,No,No
+R0611,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0612,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+R0613,18-25,Male,Master's degree,No,Binary,No,Maybe,"Yes, definitely",Yes,Agree,Agree,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0614,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,No,Yes
+R0615,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",No,Neutral,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+R0616,Less than 18,Female,Bachelor's degree,Yes,Non-binary,Yes,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Maybe,No,No,Yes
+R0617,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Maybe,Maybe,No,No,Yes
+R0618,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Agree,Disagree,Neutral,Yes,Yes,"Yes, definitely",Yes,Yes,No,No,Yes,Yes,No,No,Yes
+R0619,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,Yes,No,Yes
+R0620,18-25,Female,Master's degree,Yes,Non-binary,Yes,"No, not required","Yes, definitely",Maybe,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Yes,Yes,"No, the woman should manage both",Yes,Yes,Unsure,Maybe,Yes,No,No,No,Yes
+R0621,26-35,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Agree,No,No,"No, the woman should manage both",Yes,Yes,Yes,No,Yes,No,No,Yes,Maybe
+R0622,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,Yes,No,Maybe
+R0623,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Yes
+R0624,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",No,Disagree,Neutral,Agree,Agree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,No,Yes
+R0625,18-25,Male,High school or equivalent,No,Binary,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Maybe,Yes,No,No
+R0626,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Agree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,No,Yes,Yes
+R0627,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Neutral,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Maybe,No,No,No,Yes
+R0628,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,No,No,Yes,Maybe,No,No,No,Maybe
+R0629,18-25,Female,Master's degree,Yes,Binary,Yes,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0630,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Neutral,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Yes,Yes,No,Yes
+R0631,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Neutral,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,Yes,Yes,No,Yes
+R0632,26-35,Female,Master's degree,No,Binary,No,Maybe,"No, not required",Yes,Disagree,Agree,Agree,Disagree,Agree,Agree,Yes,Yes,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,Maybe,Yes,No,Yes
+R0633,18-25,Female,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+R0634,18-25,Male,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0635,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Neutral,Neutral,Disagree,No,No,"Yes, definitely",No,Yes,Unsure,Maybe,Yes,No,No,No,Yes
+R0636,26-35,Male,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Maybe,No,Maybe
+R0637,18-25,Female,Bachelor's degree,No,Unsure,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,No,No,Yes,Yes,No,No,No,Yes
+R0638,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0639,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0640,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Agree,Agree,Agree,Agree,Disagree,Yes,Yes,"Yes, definitely",Yes,No,Yes,Maybe,Yes,Yes,No,No,Maybe
+R0641,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,Yes,No,No,Yes
+R0642,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0643,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0644,18-25,Male,Master's degree,Yes,Unsure,No,"Yes, definitely","No, not required",No,Disagree,Disagree,Disagree,Agree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Maybe,Maybe,Maybe
+R0645,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,No,Yes
+R0646,18-25,Female,Bachelor's degree,No,Unsure,No,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0647,26-35,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Agree,Neutral,Agree,No,No,"Yes, definitely",Yes,No,Unsure,Yes,Yes,Maybe,No,Maybe,Maybe
+R0648,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,Maybe,No,No,Yes
+R0649,18-25,Female,Master's degree,Yes,Binary,Yes,"No, not required","Yes, definitely",Maybe,Disagree,Neutral,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,Yes,Yes,Maybe
+R0650,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,No,Yes,Yes,No,No,Yes,Yes
+R0651,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0652,18-25,Male,Master's degree,Yes,Binary,No,"No, not required","Yes, definitely",Maybe,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Maybe
+R0653,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",No,Agree,Agree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Maybe
+R0654,18-25,Female,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,Yes,Yes,"No, the woman should manage both",Yes,Yes,Yes,No,Maybe,No,No,No,Yes
+R0655,18-25,Female,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,Yes,No,No,Yes
+R0656,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,No,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Maybe
+R0657,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0658,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0659,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Maybe,No,Maybe
+R0660,18-25,Female,Bachelor's degree,Yes,Binary,Yes,Maybe,Maybe,Yes,Disagree,Neutral,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0661,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0662,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Disagree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,Yes,Maybe
+R0663,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0664,18-25,Female,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Agree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,Yes,Yes
+R0665,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Maybe,No,No,No,Yes
+R0666,18-25,Female,Master's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",No,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Maybe
+R0667,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"No, the woman should manage both",Yes,No,Unsure,Yes,Yes,Yes,Maybe,No,Maybe
+R0668,18-25,Male,Bachelor's degree,No,Binary,No,"No, not required","Yes, definitely",Maybe,Agree,Agree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,Yes,No,No,Maybe
+R0669,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0670,18-25,Male,High school or equivalent,No,Binary,No,"Yes, definitely",Maybe,Maybe,Agree,Agree,Agree,Disagree,Disagree,Agree,No,No,"No, the woman should manage both",Yes,No,No,No,Yes,No,No,No,Maybe
+R0671,26-35,Male,High school or equivalent,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Agree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,No,Yes,Yes
+R0672,18-25,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0673,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+R0674,18-25,Male,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",No,Unsure,No,Yes,Yes,No,Maybe,No,Yes
+R0675,Less than 18,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,Maybe,Yes
+R0676,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,No,Yes,No,No,Yes
+R0677,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Disagree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0678,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely",Maybe,Maybe,Agree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0679,18-25,Male,Master's degree,Yes,Unsure,Yes,"No, not required","No, not required",Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,No
+R0680,18-25,Male,High school or equivalent,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Neutral,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,No,No,Yes
+R0681,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Neutral,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0682,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Maybe,No,Yes,No,No
+R0683,18-25,Male,Master's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Agree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,No
+R0684,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0685,18-25,Male,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Neutral,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0686,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,No,No,No,No
+R0687,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Maybe,Neutral,Agree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,Yes,Yes
+R0688,18-25,Female,Master's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,No,No,Yes
+R0689,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Neutral,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,No,Yes,Yes,Maybe,No,No,No,Maybe
+R0690,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,No,Disagree,Disagree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,No,No,Maybe
+R0691,26-35,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Neutral,Neutral,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0692,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,No,Yes,Yes,No,No,Maybe
+R0693,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,No
+R0694,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Disagree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0695,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Agree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,No,No,No,No,No,No,Yes
+R0696,26-35,Male,High school or equivalent,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Agree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Yes
+R0697,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0698,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Agree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,Yes,Maybe
+R0699,18-25,Male,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0700,26-35,Female,Master's degree,Yes,Unsure,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,Yes,Yes
+R0701,18-25,Female,Master's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Maybe,Disagree,Disagree,Agree,Agree,Neutral,Neutral,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,No,No,No
+R0702,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Disagree,Neutral,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,Yes,No,Yes
+R0703,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Disagree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,Maybe,Yes,Yes
+R0704,26-35,Male,Bachelor's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,No,Yes
+R0705,26-35,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Neutral,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",No,Yes,Yes,No,No,No,No,No,Yes
+R0706,Less than 18,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Maybe,Maybe,No,No,Yes
+R0707,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",No,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,No,Maybe,Yes,No,Maybe
+R0708,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Agree,Yes,No,"Yes, definitely",Yes,No,Yes,Maybe,Yes,No,No,Maybe,Yes
+R0709,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+R0710,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0711,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0712,18-25,Male,Bachelor's degree,No,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0713,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","No, not required",Maybe,Disagree,Disagree,Neutral,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,Yes,No,Yes,Maybe
+R0714,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0715,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"No, not required",Maybe,Yes,Disagree,Agree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Yes
+R0716,18-25,Male,Master's degree,No,Non-binary,Yes,"Yes, definitely","No, not required",Maybe,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Maybe,Yes,No,No,No,No
+R0717,26-35,Female,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Agree,Neutral,Yes,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,No
+R0718,26-35,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,No,Yes,No,Yes,No,Maybe
+R0719,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Unsure,No,Maybe,No,No,No,Yes
+R0720,26-35,Male,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Agree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,Maybe,No,No,Maybe
+R0721,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,No,No,Maybe,Yes,No,No,Yes,No
+R0722,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",No,Yes,Unsure,Yes,Yes,No,No,Yes,Maybe
+R0723,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Agree,Agree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0724,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,No,Maybe
+R0725,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,No,Maybe,Yes
+R0726,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Neutral,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0727,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Maybe
+R0728,18-25,Female,Bachelor's degree,No,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Unsure,No,Maybe,Yes,No,Yes,No,Maybe
+R0729,18-25,Male,High school or equivalent,No,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+R0730,18-25,Female,High school or equivalent,Yes,Binary,No,Maybe,"Yes, definitely",Maybe,Agree,Agree,Agree,Neutral,Agree,Neutral,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+R0731,26-35,Male,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0732,18-25,Female,High school or equivalent,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",No,Agree,Agree,Agree,Agree,Disagree,Neutral,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0733,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,No,Maybe,Yes
+R0734,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,No,No,Maybe,Yes,No,No,Yes,Yes
+R0735,26-35,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",No,No,Yes,Maybe,Yes,No,No,No,Yes
+R0736,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,Yes,No,No,Maybe
+R0737,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,No,Maybe
+R0738,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0739,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0740,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+R0741,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,No,Agree,Neutral,Agree,Agree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,No
+R0742,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Agree,Agree,Neutral,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,No,Maybe
+R0743,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Yes,No,Yes
+R0744,18-25,Female,Master's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Disagree,Neutral,Agree,Neutral,Disagree,Agree,Yes,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0745,Less than 18,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Neutral,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",No,Yes,Yes,Yes,Maybe,No,No,No,Yes
+R0746,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Neutral,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Maybe,No,Maybe
+R0747,18-25,Male,High school or equivalent,No,Binary,No,Maybe,"Yes, definitely",Yes,Disagree,Neutral,Agree,Neutral,Neutral,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0748,18-25,Male,Master's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0749,Less than 18,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0750,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Neutral,Agree,Agree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Yes,No,Yes,Yes
+R0751,26-35,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Neutral,Agree,Yes,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,No,No,Yes
+R0752,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",No,Agree,Disagree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Maybe,No,No,Yes
+R0753,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Maybe
+R0754,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0755,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Maybe
+R0756,18-25,Male,Master's degree,Yes,Binary,Yes,Maybe,"Yes, definitely",Yes,Agree,Agree,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Maybe,Maybe
+R0757,18-25,Male,High school or equivalent,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Neutral,Neutral,Agree,Agree,Disagree,Neutral,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,No,No,Maybe
+R0758,18-25,Male,High school or equivalent,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Agree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Yes,No,Yes
+R0759,18-25,Male,High school or equivalent,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Disagree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Maybe
+R0760,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Maybe,Agree,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,No,Maybe
+R0761,26-35,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0762,18-25,Male,Master's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,Yes,Yes
+R0763,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,Yes,No,Maybe
+R0764,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,Yes,No,Yes
+R0765,18-25,Male,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Maybe
+R0766,Less than 18,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,Yes,No,No,Yes
+R0767,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Maybe,Neutral,Disagree,Neutral,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0768,More than 35,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Maybe,No,Yes,No
+R0769,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Agree,Disagree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,Yes,Maybe,Yes
+R0770,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Maybe,Agree,Neutral,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0771,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,Yes,Yes
+R0772,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Neutral,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,Yes,No,Maybe
+R0773,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Yes,No,Yes
+R0774,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,No,No,"Yes, definitely",No,Unsure,Unsure,Yes,Yes,No,No,No,Yes
+R0775,18-25,Male,High school or equivalent,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Neutral,Disagree,Neutral,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",No,Yes,Yes,Maybe,Yes,Maybe,No,No,No
+R0776,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",No,Neutral,Neutral,Agree,Agree,Agree,Disagree,Yes,No,"Yes, definitely",No,Yes,Yes,Maybe,Yes,No,Maybe,No,Maybe
+R0777,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Maybe,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Maybe
+R0778,18-25,Female,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,No,Yes,Maybe,Maybe,No,Maybe
+R0779,18-25,Male,Master's degree,Yes,Non-binary,Yes,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,Yes
+R0780,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Yes
+R0781,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Agree,Neutral,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Maybe,No,Maybe
+R0782,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,No
+R0783,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+R0784,26-35,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,Maybe,Yes
+R0785,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,Yes,No,Yes
+R0786,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,Maybe,Yes
+R0787,26-35,Female,Master's degree,No,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Maybe,No,Maybe,No,Yes
+R0788,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+R0789,More than 35,Female,High school or equivalent,No,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Maybe,No,Maybe
+R0790,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Agree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,Yes,Yes,No,Yes
+R0791,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Yes,No,No,Yes
+R0792,18-25,Male,High school or equivalent,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Agree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,Yes,No
+R0793,18-25,Female,High school or equivalent,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Neutral,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0794,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0795,18-25,Male,Master's degree,Yes,Non-binary,No,"No, not required","No, not required",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Maybe,Yes
+R0796,18-25,Female,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Yes,No,No,Maybe
+R0797,Less than 18,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+R0798,18-25,Male,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+R0799,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Maybe,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+R0800,18-25,Female,High school or equivalent,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Maybe
+R0801,18-25,Female,Bachelor's degree,No,Binary,No,"No, not required","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Neutral,Disagree,Yes,Yes,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,Maybe,No,No,Yes
+R0802,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Neutral,Disagree,Disagree,Yes,No,"No, the woman should manage both",Yes,No,Yes,Yes,Yes,Yes,No,No,Maybe
+R0803,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,Yes,No
+R0804,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Disagree,Agree,Disagree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0805,26-35,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,No,Yes,No,Yes,No,No,Yes,Yes
+R0806,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,Yes,Yes
+R0807,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0808,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Neutral,Agree,Yes,Yes,"Yes, definitely",Yes,No,No,Yes,Yes,No,No,Maybe,Yes
+R0809,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,Yes,No,No,No
+R0810,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Yes
+R0811,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,No,No,Yes,Yes,Maybe,Yes,No,Yes
+R0812,18-25,Female,Master's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Agree,Agree,Neutral,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0813,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,Maybe,No,No,Yes
+R0814,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Neutral,Agree,Disagree,Neutral,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,No
+R0815,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,No,No,Maybe,Yes,Maybe,No,No,Yes
+R0816,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Agree,Agree,No,Yes,"No, the woman should manage both",Yes,Yes,Yes,Yes,Maybe,No,No,No,No
+R0817,18-25,Male,Bachelor's degree,No,Binary,No,"Yes, definitely","No, not required",Yes,Agree,Agree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",No,No,No,Yes,Yes,No,Maybe,No,Yes
+R0818,More than 35,Female,Master's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,Maybe,No
+R0819,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",No,Agree,Agree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Yes
+R0820,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,No,No,Maybe,No,Yes,No,Yes
+R0821,18-25,Male,High school or equivalent,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,No,Yes,No,No,Yes
+R0822,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","No, not required",Yes,Neutral,Agree,Neutral,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,No,No,Yes,No,No,Yes,Yes
+R0823,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Agree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,Yes,Yes,Yes
+R0824,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,Maybe,No
+R0825,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,Yes,Yes
+R0826,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,No,No,Yes
+R0827,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Maybe,Yes,No,No,Maybe
+R0828,26-35,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Neutral,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,No
+R0829,Less than 18,Female,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Neutral,Disagree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+R0830,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"No, not required",Maybe,Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,No
+R0831,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Yes,No,No,Yes
+R0832,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Disagree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,No,Yes,Yes,Yes,No,No,No
+R0833,18-25,Female,Master's degree,Yes,Binary,Yes,Maybe,Maybe,Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,No,"No, the woman should manage both",Yes,Yes,Yes,Yes,Maybe,No,No,No,Yes
+R0834,18-25,Female,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0835,18-25,Male,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,No,No,Yes,Yes,No,Yes,No,Maybe
+R0836,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",No,Yes,No,Maybe,Yes,No,No,No,Yes
+R0837,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0838,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",No,Neutral,Disagree,Agree,Agree,Agree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,Yes,No,Maybe
+R0839,18-25,Male,Master's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",No,Neutral,Disagree,Agree,Agree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0840,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely",Maybe,Yes,Disagree,Agree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Maybe,No,Yes,Yes
+R0841,18-25,Male,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Neutral,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Maybe,No,Yes
+R0842,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Maybe
+R0843,18-25,Female,Bachelor's degree,Yes,Binary,No,Maybe,"Yes, definitely",Yes,Disagree,Neutral,Agree,Neutral,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,No,Yes,Yes,Yes
+R0844,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,No,Yes,Maybe
+R0845,18-25,Male,Master's degree,Yes,Non-binary,No,"No, not required",Maybe,Yes,Agree,Agree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0846,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,Unsure,No,Yes,No,No,Yes,Yes
+R0847,18-25,Female,Bachelor's degree,No,Binary,No,"No, not required","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,Yes,Yes,No,No
+R0848,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,No,No
+R0849,26-35,Male,Bachelor's degree,Yes,Non-binary,Yes,Maybe,"Yes, definitely",No,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0850,18-25,Male,High school or equivalent,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0851,18-25,Male,Master's degree,Yes,Unsure,Yes,Maybe,"Yes, definitely",Yes,Agree,Disagree,Disagree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,No,Yes,No,Yes,No,No,No,Yes
+R0852,26-35,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,Yes,Yes
+R0853,26-35,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,Yes
+R0854,18-25,Male,Bachelor's degree,Yes,Binary,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Maybe
+R0855,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Maybe,No,No,No,Yes
+R0856,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Neutral,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0857,18-25,Female,High school or equivalent,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0858,26-35,Male,High school or equivalent,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0859,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,Maybe,Yes,No,Maybe
+R0860,More than 35,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Neutral,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,No,Yes
+R0861,18-25,Male,Bachelor's degree,Yes,Binary,Yes,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,No,Yes,No
+R0862,18-25,Female,Master's degree,Yes,Non-binary,No,Maybe,"No, not required",Yes,Disagree,Agree,Disagree,Neutral,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,No
+R0863,More than 35,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Unsure,No,Maybe,Yes,No,No,No,Maybe
+R0864,18-25,Male,Master's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Yes,No,No,Yes
+R0865,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",No,Neutral,Agree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,No,Yes
+R0866,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0867,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,No,No,Yes,Yes,Yes,No,No,No
+R0868,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Unsure,Yes,No,Yes,No,No,No,Yes
+R0869,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Maybe
+R0870,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0871,26-35,Male,Master's degree,Yes,Non-binary,Yes,Maybe,Maybe,No,Neutral,Disagree,Disagree,Neutral,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0872,18-25,Female,Bachelor's degree,Yes,Non-binary,No,Maybe,"No, not required",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0873,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,Yes,No,Yes
+R0874,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+R0875,26-35,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,Maybe,No,Maybe,Yes
+R0876,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Neutral,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0877,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Agree,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,No,No,Yes
+R0878,Less than 18,Male,Master's degree,No,Non-binary,Yes,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",No,No,No,Yes,Yes,Yes,No,No,No
+R0879,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,Yes,No,Maybe
+R0880,26-35,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Neutral,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,Maybe,No,No,Maybe
+R0881,26-35,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Disagree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0882,18-25,Female,Bachelor's degree,No,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,Yes,Yes,Maybe
+R0883,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",No,Agree,Neutral,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",No,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0884,18-25,Female,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,No,No,No,No,Maybe
+R0885,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Maybe,No,Yes
+R0886,18-25,Female,Master's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,Yes,"No, the woman should manage both",Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+R0887,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",No,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,No,No,Yes
+R0888,18-25,Male,Bachelor's degree,No,Non-binary,No,Maybe,"Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,Yes,No,Yes
+R0889,26-35,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Neutral,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,No,Yes,No,No,No,Yes
+R0890,18-25,Female,Bachelor's degree,Yes,Binary,Yes,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,Yes,Yes
+R0891,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Maybe,Yes,No,No,No,No
+R0892,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Neutral,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,Yes,Yes,No,Yes
+R0893,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,No,Unsure,Yes,Yes,No,No,No,Yes
+R0894,26-35,Female,Bachelor's degree,Yes,Binary,No,"No, not required","No, not required",Yes,Disagree,Neutral,Agree,Disagree,Neutral,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0895,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,No,Yes,No,No,No,Maybe
+R0896,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Disagree,Disagree,Neutral,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0897,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,No,No,Yes,No,Maybe
+R0898,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+R0899,18-25,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,No
+R0900,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Maybe,Yes,No,Yes
+R0901,18-25,Male,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0902,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,Maybe,Yes
+R0903,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Maybe,No
+R0904,26-35,Male,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Maybe
+R0905,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Maybe,Yes
+R0906,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,No,No,Yes,Yes,No,No,Yes
+R0907,26-35,Female,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Yes,Agree,Neutral,Agree,Agree,Disagree,Neutral,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+R0908,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",No,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+R0909,18-25,Male,High school or equivalent,No,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+R0910,18-25,Female,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Neutral,Neutral,Disagree,No,No,"Yes, definitely",No,No,Unsure,Maybe,Yes,No,No,No,Yes
+R0911,18-25,Male,Master's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,Yes,Yes
+R0912,18-25,Female,Master's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",No,Neutral,Disagree,Agree,Agree,Agree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0913,18-25,Female,Master's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Maybe,Agree,Neutral,Agree,Agree,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,No,Maybe,No,No,No,Yes
+R0914,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Neutral,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Maybe,No,No,Yes,Yes
+R0915,More than 35,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Agree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0916,18-25,Male,Bachelor's degree,Yes,Binary,Yes,Maybe,Maybe,Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0917,18-25,Male,Bachelor's degree,No,Non-binary,No,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,Maybe,Maybe
+R0918,26-35,Female,Master's degree,No,Non-binary,No,"No, not required",Maybe,Maybe,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,Yes,Yes,Yes
+R0919,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,Unsure,Yes,Yes,Yes,No,Yes,Yes
+R0920,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,Maybe,Yes
+R0921,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0922,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,No,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,Yes
+R0923,18-25,Male,High school or equivalent,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,Maybe,No
+R0924,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Agree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0925,26-35,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Disagree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0926,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Neutral,Agree,Disagree,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Maybe
+R0927,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Unsure,No,No,Yes,No,Maybe,No,Yes
+R0928,18-25,Female,High school or equivalent,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Yes,Maybe,No,No,No,Yes
+R0929,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,Yes,No,No
+R0930,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Disagree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,Yes
+R0931,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Neutral,Agree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Maybe,No,No,No,Maybe
+R0932,18-25,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","No, not required",Yes,Agree,Neutral,Agree,Neutral,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,No,No,Yes,Maybe
+R0933,18-25,Male,Master's degree,No,Binary,No,Maybe,"No, not required",Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,Yes,No,"No, the woman should manage both",Yes,Unsure,No,Maybe,No,Maybe,No,No,Yes
+R0934,18-25,Male,Master's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Neutral,Disagree,Disagree,Disagree,Agree,Yes,Yes,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,No,No,No,Yes
+R0935,26-35,Female,Bachelor's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,Maybe,No,Yes,No
+R0936,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Maybe,Yes,Yes,No,No,No
+R0937,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,No,No,Maybe
+R0938,26-35,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,Yes,No,No
+R0939,26-35,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,No,No,Yes,Yes,Yes,No,Yes,No
+R0940,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Unsure,No,Maybe,Yes,No,Maybe,No,Yes
+R0941,18-25,Female,High school or equivalent,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,No,No,Maybe,Yes,Yes,Yes,No,Yes
+R0942,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",No,Agree,Disagree,Agree,Disagree,Neutral,Neutral,No,Yes,"Yes, definitely",Yes,No,Yes,Maybe,Yes,Yes,No,No,Yes
+R0943,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","No, not required",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0944,18-25,Female,Master's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Yes,No,"Yes, definitely",No,Yes,Yes,Maybe,Yes,No,Yes,No,Yes
+R0945,18-25,Female,Bachelor's degree,No,Binary,No,"No, not required","Yes, definitely",Maybe,Neutral,Disagree,Agree,Agree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+R0946,18-25,Male,Bachelor's degree,Yes,Unsure,Yes,"No, not required","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0947,18-25,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Agree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+R0948,Less than 18,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,No,Neutral,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0949,18-25,Female,Bachelor's degree,Yes,Unsure,No,"No, not required","No, not required",Yes,Neutral,Disagree,Agree,Disagree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,No,Yes
+R0950,18-25,Male,Bachelor's degree,No,Unsure,No,"Yes, definitely",Maybe,Yes,Disagree,Agree,Agree,Disagree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,No
+R0951,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",No,Yes,Yes,Yes,Yes,No,No,Maybe,No
+R0952,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Disagree,Agree,No,No,"Yes, definitely",Yes,No,No,Yes,Yes,Yes,No,No,Yes
+R0953,26-35,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+R0954,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Neutral,Disagree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,No,Yes
+R0955,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Agree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+R0956,26-35,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,No,No,No,Maybe
+R0957,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,Yes,Maybe
+R0958,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",No,Agree,Disagree,Neutral,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,Maybe,No,Maybe
+R0959,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,No,Yes,Yes
+R0960,18-25,Female,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Yes,Maybe,Maybe,No,No,Yes,Yes
+R0961,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Agree,Disagree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0962,18-25,Male,Bachelor's degree,Yes,Binary,No,Maybe,"Yes, definitely",Yes,Neutral,Agree,Agree,Neutral,Disagree,Disagree,Yes,No,"Yes, definitely",Yes,No,Yes,Yes,Yes,Yes,No,No,Maybe
+R0963,18-25,Male,Bachelor's degree,No,Non-binary,Yes,"Yes, definitely","Yes, definitely",Maybe,Agree,Agree,Agree,Agree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0964,18-25,Female,Bachelor's degree,No,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Neutral,Agree,Disagree,Disagree,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0965,18-25,Male,Bachelor's degree,Yes,Binary,No,"No, not required","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,No,No,No,No
+R0966,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely","Yes, definitely",Maybe,Disagree,Disagree,Agree,Disagree,Agree,Agree,Yes,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,No,No,Yes
+R0967,18-25,Male,Master's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0968,18-25,Male,Bachelor's degree,Yes,Unsure,No,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Neutral,Disagree,Neutral,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Yes,No,No,No,Yes
+R0969,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"No, not required","Yes, definitely",Maybe,Agree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,No,No,No,Maybe
+R0970,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Agree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+R0971,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Yes,Yes,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,No,No,No
+R0972,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely",Maybe,Maybe,Disagree,Disagree,Agree,Neutral,Disagree,Neutral,Yes,No,"Yes, definitely",Yes,No,Yes,No,Yes,No,No,No,No
+R0973,18-25,Female,Bachelor's degree,Yes,Unsure,Yes,"Yes, definitely",Maybe,Maybe,Neutral,Neutral,Neutral,Disagree,Neutral,Disagree,Yes,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+R0974,18-25,Male,High school or equivalent,No,Unsure,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Neutral,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Maybe,No,Maybe
+R0975,18-25,Female,Master's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Neutral,Agree,No,Yes,"Yes, definitely",Yes,Yes,Unsure,Maybe,Yes,Maybe,Yes,Maybe,No
+R0976,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0977,18-25,Male,Bachelor's degree,Yes,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Neutral,Yes,Yes,"Yes, definitely",Yes,Unsure,Yes,Maybe,Yes,No,Yes,No,No
+R0978,18-25,Female,Bachelor's degree,Yes,Non-binary,Yes,Maybe,"Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Disagree,Neutral,Yes,Yes,"No, the woman should manage both",Yes,Yes,Unsure,Yes,Yes,No,No,No,Maybe
+R0979,18-25,Female,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Agree,Agree,Agree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,No,Yes,No,No
+R0980,18-25,Male,Bachelor's degree,No,Non-binary,Yes,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Maybe
+R0981,26-35,Male,Bachelor's degree,No,Unsure,No,Maybe,"Yes, definitely",Maybe,Disagree,Disagree,Agree,Agree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,Unsure,No,Yes,No,Yes,No,Maybe
+R0982,26-35,Male,Bachelor's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Maybe,Disagree,Agree,Neutral,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Unsure,No,Maybe,Yes,No,Yes,No,Maybe
+R0983,18-25,Female,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Agree,Agree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",No,No,Yes,Yes,Yes,No,No,No,Yes
+R0984,18-25,Female,Bachelor's degree,No,Unsure,No,"Yes, definitely","Yes, definitely",Yes,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,No,Unsure,Yes,Yes,No,No,No,Maybe
+R0985,More than 35,Female,Bachelor's degree,No,Binary,No,"Yes, definitely",Maybe,No,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,Yes,No,Yes,Yes
+R0986,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Neutral,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Unsure,Yes,Yes,No,No,No,No
+R0987,18-25,Male,Master's degree,Yes,Binary,No,"Yes, definitely","Yes, definitely",Yes,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+R0988,18-25,Male,Bachelor's degree,Yes,Unsure,No,"Yes, definitely","No, not required",Yes,Agree,Agree,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0989,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","No, not required",Yes,Neutral,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,No,Maybe,Yes,No,Yes,No,Yes
+R0990,18-25,Male,Master's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Disagree,Neutral,Neutral,Disagree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Maybe,No,No,Maybe,Yes
+R0991,18-25,Male,Bachelor's degree,No,Non-binary,No,"Yes, definitely",Maybe,Yes,Neutral,Disagree,Agree,Disagree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0992,18-25,Male,Bachelor's degree,Yes,Non-binary,No,Maybe,"Yes, definitely",Yes,Disagree,Agree,Agree,Disagree,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+R0993,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Maybe,Agree,Disagree,Agree,Neutral,Disagree,Disagree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,Maybe,Yes,No,Yes
+R0994,18-25,Female,Bachelor's degree,No,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Agree,Disagree,Agree,Disagree,Agree,Disagree,Yes,No,"Yes, definitely",Yes,No,Yes,No,Yes,No,No,No,Yes
+R0995,26-35,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely","Yes, definitely",Yes,Agree,Neutral,Agree,Disagree,Agree,Disagree,No,Yes,"Yes, definitely",Yes,No,Yes,Yes,Maybe,No,No,No,Yes
+R0996,18-25,Female,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,No,Yes,No,No
+R0997,18-25,Male,Master's degree,Yes,Binary,Yes,"Yes, definitely","Yes, definitely",Yes,Neutral,Disagree,Agree,Disagree,Disagree,Agree,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+R0998,18-25,Female,High school or equivalent,Yes,Binary,Yes,"Yes, definitely","No, not required",No,Disagree,Neutral,Agree,Disagree,Disagree,Neutral,No,No,"Yes, definitely",Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+R0999,18-25,Female,High school or equivalent,Yes,Binary,Yes,Maybe,"Yes, definitely",Yes,Disagree,Disagree,Disagree,Neutral,Agree,Agree,No,No,"Yes, definitely",Yes,Unsure,No,Yes,Maybe,Maybe,No,No,Yes
+R1000,18-25,Male,Bachelor's degree,Yes,Non-binary,No,"Yes, definitely",Maybe,Yes,Disagree,Disagree,Agree,Agree,Agree,Agree,No,Yes,"Yes, definitely",Yes,Unsure,Yes,Yes,Yes,Yes,No,No,Yes
