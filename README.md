@@ -1,12 +1,11 @@
-<h1 align="center">Perspectives on Gender Sensitization</h1>
-<p align="center">A Kanpur-Based Quantitative Study · Full Analytics Lifecycle</p>
+<h1 align="center">Survey Analysis: Perspectives on Gender Sensitization</h1>
+<p align="center">Quantitative Study on Python · Full Analytics Lifecycle</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-completed-lightgrey" alt="status"/>
-  <img src="https://img.shields.io/badge/sample%20size-n%3D100-lightgrey" alt="sample"/>
-  <img src="https://img.shields.io/badge/synthetic%20dataset-1%2C000%20rows-lightgrey" alt="synthetic"/>
-  <img src="https://img.shields.io/badge/Python-3.9%2B-lightgrey" alt="python"/>
-  <img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey" alt="license"/>
+  <img src="https://img.shields.io/badge/sample%20size-n%3D100-lightblue" alt="sample"/>
+  <img src="https://img.shields.io/badge/synthetic%20dataset-1%2C000%20rows-lightblue" alt="synthetic"/>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-lightblue" alt="python"/>
+  <img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightblue" alt="license"/>
 </p>
 
 <p align="center">
@@ -18,12 +17,9 @@
 
 ---
 
-## What this is
+## What is this?
 
 A quantitative social research project measuring gender sensitization awareness among 100 young respondents (18–35) in Kanpur, India — restructured here as an **end-to-end data analytics case study**. Covers survey design → primary data collection → cleaning → exploratory and statistical analysis → visualization → key findings.
-
-> **Original academic work:** MA Political Science dissertation, Christ Church College, Kanpur (CSJM University), 2023–24.
-> **Supervisor:** Vibha Dikshit, Associate Professor, Department of Political Science.
 
 ---
 
@@ -153,17 +149,17 @@ gender-sensitization-survey-analysis/
 ## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Forms-survey-lightgrey" alt="forms"/>
-  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20matplotlib-lightgrey" alt="python"/>
-  <img src="https://img.shields.io/badge/Jupyter-notebooks-lightgrey" alt="jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Forms-survey-lightblue" alt="forms"/>
+  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20matplotlib-lightblue" alt="python"/>
+  <img src="https://img.shields.io/badge/Jupyter-notebooks-lightblue" alt="jupyter"/>
 </p>
 
 ---
 
 ## Ethical considerations
 
-- All 100 responses were collected with informed consent via an anonymous Google Form. No PII was ever collected.
-- The original response sheet has been permanently lost. Only published aggregate findings are represented here.
+- All 100 responses were collected with informed consent via an anonymous Google Form. No Personally Identifiable Information was ever collected.
+- The original response sheet has not been used due to confidentiality clause. Only published aggregate findings are represented here.
 - The 1,000-row synthetic dataset is clearly labelled as simulated and must not be cited as primary research evidence.
 
 ---
@@ -202,5 +198,5 @@ See [`CITATION.cff`](CITATION.cff) for the full machine-readable citation.
 
 ## Author
 
-**Anshika Gupta** — MA Political Science, Christ Church College, Kanpur (CSJM University)
-GitHub: [@anshikagknp](https://github.com/anshikagknp)
+- **Anshika Gupta**
+- **GitHub:**  [@anshikagknp](https://github.com/anshikagknp)
