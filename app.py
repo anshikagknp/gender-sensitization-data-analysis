@@ -24,6 +24,46 @@ TEAL = "#0B5563"
 CORAL = "#FF6F61"
 
 # ---------------------------------------------------------------------------
+# Theme CSS — makes the title, subtitle, info banner, and footer match the
+# teal/coral palette used in the charts, instead of Streamlit's plain defaults
+# ---------------------------------------------------------------------------
+st.markdown(
+    f"""
+    <style>
+    .app-title {{
+        font-size: 2.4rem;
+        font-weight: 700;
+        color: {TEAL};
+        margin-bottom: 0.1rem;
+    }}
+    .app-subtitle {{
+        font-size: 1rem;
+        color: #4A4A4A;
+        margin-bottom: 1rem;
+    }}
+    .app-banner {{
+        background-color: #EAF3F3;
+        border-left: 5px solid {TEAL};
+        padding: 0.9rem 1.1rem;
+        border-radius: 6px;
+        font-size: 0.95rem;
+        color: #1F1F1F;
+        margin-bottom: 1.5rem;
+    }}
+    .app-footer {{
+        text-align: center;
+        color: #888888;
+        font-size: 0.85rem;
+        border-top: 1px solid #DDDDDD;
+        padding-top: 0.8rem;
+        margin-top: 1rem;
+    }}
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
+# ---------------------------------------------------------------------------
 # Data loading
 # ---------------------------------------------------------------------------
 @st.cache_data
@@ -100,17 +140,9 @@ st.sidebar.markdown(f"**{len(filtered)}** of **{len(df)}** respondents match you
 # ---------------------------------------------------------------------------
 # Header
 # ---------------------------------------------------------------------------
-st.title("Perspectives on Gender Sensitization")
-st.caption(
-    "Kanpur youth study (18–35) · Synthetic dataset, 1,000 rows, "
-    "seeded to mirror the published 100-respondent survey findings"
-)
-
-st.warning(
-    "This dashboard runs on the **synthetic, simulated dataset** "
-    "(`data/synthetic_survey.csv`), not the original 100 respondent records. "
-    "See the repo README for details.",
-    icon="ℹ️",
+st.markdown(
+    '<div class="app-title">Gender Sensitization Data Analysis</div>',
+    unsafe_allow_html=True,
 )
 
 if filtered.empty:
@@ -193,9 +225,8 @@ for tab, dimension in zip(tabs, DIMENSIONS.keys()):
         )
         st.plotly_chart(fig, use_container_width=True)
 
-st.divider()
-st.caption(
-    "Data: repo's seeded synthetic dataset · "
-    "Original 100-respondent study: MA Political Science thesis, Kanpur — "
-    "see README.md and docs/ for methodology and full findings."
+st.markdown(
+    '<div class="app-footer">Data: repo\'s seeded synthetic dataset · '
+    'see README.md and docs/ for methodology and full findings.</div>',
+    unsafe_allow_html=True,
 )
