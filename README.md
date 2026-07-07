@@ -41,6 +41,14 @@ An **end-to-end data analytics case study** that covers survey design → primar
 
 ---
 
+## Screenshots
+
+<img width="1463" height="797" alt="image" src="https://github.com/user-attachments/assets/1f7a0c42-da56-4af8-94b7-4ffa10d4b161" />
+
+<img width="1466" height="802" alt="image" src="https://github.com/user-attachments/assets/cc168aa1-ce3a-47c7-9ddf-bfd5f1c860cc" />
+
+---
+
 ## Key findings
 
 **Awareness**
