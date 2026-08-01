@@ -1,21 +1,12 @@
 <h1 align="center">Survey Analysis: Perspectives on Gender Sensitization</h1>
-<p align="center">Quantitative Study on Python · Full Analytics Lifecycle</p>
-
-<p align="center">
-  <a href="https://gender-sensitization-data-analysis.streamlit.app/">
+<p align="center"><a href="https://gender-sensitization-data-analysis.streamlit.app/">
   <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App"/>
-</a>
-  <img src="https://img.shields.io/badge/sample%20size-n%3D100-lightblue" alt="sample"/>
-  <img src="https://img.shields.io/badge/synthetic%20dataset-1%2C000%20rows-lightblue" alt="synthetic"/>
-  <img src="https://img.shields.io/badge/Python-3.9%2B-lightblue" alt="python"/>
-  <img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightblue" alt="license"/>
-</p>
+</a></p>
 
 <p align="center">
   <a href="docs/executive_summary.md">Executive Summary</a> ·
   <a href="docs/dashboard_spec.md">Dashboard Spec</a> ·
-  <a href="docs/architecture.md">Architecture</a> ·
-  <a href="#quick-start">Quick Start</a>
+  <a href="docs/architecture.md">Architecture</a> 
 </p>
 
 ---
@@ -89,44 +80,6 @@ Full details: [`docs/methodology.md`](docs/methodology.md) · Survey instrument:
 
 ---
 
-## Quick start
-
-### Prerequisites
-- Python ≥ 3.9
-- Jupyter (for running the analysis notebooks)
-
-### Installation
-
-```bash
-git clone https://github.com/anshikagknp/gender-sensitization-survey-analysis.git
-cd gender-sensitization-survey-analysis
-
-python -m venv .venv
-source .venv/bin/activate          # macOS / Linux
-# .venv\Scripts\activate           # Windows
-
-pip install -r requirements.txt
-```
-
-### Run the analysis notebooks
-
-```bash
-jupyter lab
-# Open analysis/ and run in order:
-# 1. Data_Cleaning.ipynb
-# 2. EDA.ipynb
-# 3. Statistical_Analysis.ipynb
-```
-
-### Regenerate the synthetic dataset
-
-```bash
-python data/generate_dataset.py
-# Outputs: data/synthetic_survey.csv (deterministic, seeded)
-```
-
----
-
 ## Repository structure
 
 ```
@@ -159,13 +112,17 @@ gender-sensitization-survey-analysis/
 
 ---
 
-## Tech stack
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Google%20Forms-survey-lightblue" alt="forms"/>
-  <img src="https://img.shields.io/badge/Python-pandas%20%7C%20matplotlib-lightblue" alt="python"/>
-  <img src="https://img.shields.io/badge/Jupyter-notebooks-lightblue" alt="jupyter"/>
-</p>
+| Category | Technology |
+|---|---|
+| Language | Python |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Plotly |
+| Notebook Environment | Jupyter Notebook |
+| Web App / Dashboard | Streamlit |
+| Data Collection | Google Forms |
+| Version Control | Git & GitHub |
 
 ---
 
@@ -206,10 +163,4 @@ See [`CITATION.cff`](CITATION.cff) for the full machine-readable citation.
 |---|---|
 | Findings, documentation, write-up | [CC BY-NC 4.0](LICENSE) |
 | Code and scripts | MIT |
-
----
-
-## Author
-
-- **Anshika Gupta**
-- **GitHub:**  [@anshikagknp](https://github.com/anshikagknp)
+| GitHub | [@anshikagknp](https://github.com/anshikagknp) |
