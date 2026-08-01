@@ -2,8 +2,7 @@
 Gender Sensitization Survey — Streamlit Dashboard
 Repo: anshikagknp/gender-sensitization-data-analysis
 
-Reads data/synthetic_survey.csv (the seeded synthetic dataset already in the
-repo) and turns it into an interactive dashboard with demographic filters
+Reads data/synthetic_survey.csv and turns it into an interactive dashboard with demographic filters
 and six thematic views: Awareness, Stereotypes, Roles, Equality, GBV.
 """
 
@@ -11,22 +10,17 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-# ---------------------------------------------------------------------------
 # Page config
 # ---------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Gender Sensitization Survey — Kanpur Youth Study",
-    page_icon="📊",
+    page_title="Gender Sensitization Survey Dashboard",
     layout="wide",
 )
 
 TEAL = "#0B5563"
 CORAL = "#FF6F61"
 
-# ---------------------------------------------------------------------------
-# Theme CSS — makes the title, subtitle, info banner, and footer match the
-# teal/coral palette used in the charts, instead of Streamlit's plain defaults
-# ---------------------------------------------------------------------------
+# Theme CSS 
 st.markdown(
     f"""
     <style>
@@ -63,9 +57,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# ---------------------------------------------------------------------------
 # Data loading
-# ---------------------------------------------------------------------------
 @st.cache_data
 def load_data():
     return pd.read_csv("data/synthetic_survey.csv")
@@ -73,10 +65,8 @@ def load_data():
 
 df = load_data()
 
-# ---------------------------------------------------------------------------
-# Question groupings, taken directly from the column names in
-# data/synthetic_survey.csv
-# ---------------------------------------------------------------------------
+
+# Question groupings
 DIMENSIONS = {
     "Awareness": {
         "heard_term_gender_sensitization": "Heard the term \"gender sensitization\"",
@@ -114,9 +104,7 @@ DIMENSIONS = {
 
 DEMOGRAPHIC_COLS = ["age_group", "gender", "education"]
 
-# ---------------------------------------------------------------------------
 # Sidebar — filters
-# ---------------------------------------------------------------------------
 st.sidebar.header("Filters")
 
 age_filter = st.sidebar.multiselect(
@@ -137,9 +125,7 @@ filtered = df[
 
 st.sidebar.markdown(f"**{len(filtered)}** of **{len(df)}** respondents match your filters.")
 
-# ---------------------------------------------------------------------------
 # Header
-# ---------------------------------------------------------------------------
 st.markdown(
     '<div class="app-title">Gender Sensitization Data Analysis</div>',
     unsafe_allow_html=True,
@@ -149,9 +135,7 @@ if filtered.empty:
     st.error("No respondents match the current filters. Adjust the sidebar selections.")
     st.stop()
 
-# ---------------------------------------------------------------------------
 # Demographics overview
-# ---------------------------------------------------------------------------
 st.subheader("Respondent profile")
 demo_cols = st.columns(len(DEMOGRAPHIC_COLS))
 for col, field in zip(demo_cols, DEMOGRAPHIC_COLS):
@@ -170,9 +154,7 @@ for col, field in zip(demo_cols, DEMOGRAPHIC_COLS):
 
 st.divider()
 
-# ---------------------------------------------------------------------------
 # Thematic tabs
-# ---------------------------------------------------------------------------
 st.subheader("Survey responses by theme")
 
 tabs = st.tabs(list(DIMENSIONS.keys()))
