@@ -127,7 +127,7 @@ st.sidebar.markdown(f"**{len(filtered)}** of **{len(df)}** respondents match you
 
 # Header
 st.markdown(
-    '<div class="app-title">Gender Sensitization Data Analysis</div>',
+    '<div class="app-title">Gender Sensitization Analysis Dashboard</div>',
     unsafe_allow_html=True,
 )
 
