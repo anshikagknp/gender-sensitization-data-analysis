@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a85b425-00dd-4478-bdbd-340acaffa807" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anshikagknp"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anshikagknp/gender-sensitization-survey-analysis.git",
+    "accountId": "e7605307-2475-46a7-b933-7e9a627b2325"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2361496449279445" />
+      <entry key="MS500" value="3.5839637279914465" />
+      <entry key="S2" value="7.321153831956197" />
+      <entry key="S5" value="11.664891859342786" />
+      <entry key="S10" value="15.963839381519659" />
+      <entry key="S30" value="21.5131074407218" />
+      <entry key="S60" value="25.954222361115605" />
+      <entry key="M2" value="34.33834938282653" />
+      <entry key="M5" value="50.03748529755965" />
+      <entry key="M10" value="60.664738040389764" />
+      <entry key="M15" value="65.3266811567422" />
+      <entry key="M30" value="70.72526474705798" />
+      <entry key="H1" value="73.74332425915397" />
+      <entry key="H2" value="75.3405073020611" />
+      <entry key="H4" value="76.16229196482723" />
+      <entry key="D1" value="76.85926118410262" />
+      <entry key="W1" value="76.97986680827786" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.278900646453079E-190" />
+      <entry key="S2" value="3.885360743645014E-48" />
+      <entry key="S5" value="1.0858567594186357E-19" />
+      <entry key="S10" value="3.295236143202771E-10" />
+      <entry key="S30" value="6.966254076261027E-4" />
+      <entry key="S60" value="0.028713618412260233" />
+      <entry key="M2" value="0.2114332523564069" />
+      <entry key="M5" value="0.7830363665597112" />
+      <entry key="M10" value="1.2427415506703303" />
+      <entry key="M15" value="1.4540652916529977" />
+      <entry key="M30" value="1.7039855137910604" />
+      <entry key="H1" value="1.8457061796799263" />
+      <entry key="H2" value="1.9212103979629107" />
+      <entry key="H4" value="1.9601852796935935" />
+      <entry key="D1" value="1.9933050887382684" />
+      <entry key="W1" value="1.9990421255731212" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.180768179425306" />
+      <entry key="MS500" value="3.5488318547117075" />
+      <entry key="S2" value="7.30142207368782" />
+      <entry key="S5" value="11.650920527398435" />
+      <entry key="S10" value="15.952622979152206" />
+      <entry key="S30" value="21.50770024471652" />
+      <entry key="S60" value="25.978162429517237" />
+      <entry key="M2" value="34.54317205898031" />
+      <entry key="M5" value="50.81234521319529" />
+      <entry key="M10" value="61.90107342074099" />
+      <entry key="M15" value="66.77575364840266" />
+      <entry key="M30" value="72.42632322448151" />
+      <entry key="H1" value="75.58744404645941" />
+      <entry key="H2" value="77.2608916682122" />
+      <entry key="H4" value="78.12205574037907" />
+      <entry key="D1" value="78.85249481880471" />
+      <entry key="W1" value="78.97889869633838" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3HJalIpSkKwCLn0cUiVsYt83TzD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/anshikagupta/Developer/gender-sensitization-data-analysis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c6d794e1806d-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.309" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a85b425-00dd-4478-bdbd-340acaffa807" name="Changes" comment="" />
+      <created>1785588775365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785588775365</updated>
+      <workItem from="1785588776687" duration="3654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
